@@ -1,8 +1,8 @@
 module.exports = {
-  siteTitle: 'gatsby-starter-morning-dew',
-  siteDescription: "👋 Hey I'm a Gatsby starter!",
-  authorName: 'Maxence Poutord',
-  twitterUsername: '_maxpou',
+  siteTitle: 'Sabrina Danielle Codes for 100 days',
+  siteDescription: "👋 Hey I used to be a Gatsby starter!...Sabrina is going to make me kinda awesome",
+  authorName: 'Sabrina Danielle Green',
+  twitterUsername: '@brinadanielle',
   authorAvatar: 'avatar.jpeg', // file in content/images
   multilangPosts: true, // enable/disable flags in post lists
   authorDescription: `
