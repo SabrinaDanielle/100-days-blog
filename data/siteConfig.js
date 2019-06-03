@@ -1,45 +1,45 @@
 module.exports = {
-  siteTitle: 'Sabrina Danielle Codes for 100 days',
-  siteDescription: "👋 Hey I used to be a Gatsby starter!...Sabrina is going to make me kinda awesome",
+  siteTitle: '100 Days of Code Challenge by Bri',
+  siteDescription: "👋 Blogging my attempt at the 100 days of code Challenge ",
   authorName: 'Sabrina Danielle Green',
   twitterUsername: '@brinadanielle',
   authorAvatar: 'avatar.jpeg', // file in content/images
-  multilangPosts: true, // enable/disable flags in post lists
+  multilangPosts: false, // enable/disable flags in post lists
   authorDescription: `
-  For the last decade, Maxence Poutord has worked with a variety of web technologies. He is currently focused on front-end development.
-  On his day to day job, he is working as a senior front-end engineer at VSware. He is also a frequent tech speaker and a mentor.
-  As a new digital nomad, he is living where the WIFI and sun is 😎 <br>
-  Do you want to know more? <a href="https://www.maxpou.fr/about" target="_blank">Visit my website!</a>
+ Throughout her career as a creative developer, educator, and resolutionist 🎩, <br> Sabrina Danielle Green has found fulfillment and success in seeing projects from ideation to manifestation 🌟.<br>
+  She is currently focused on Full Stack Javascript development with a special interest in ReactJS.<br>
+  As an experienced remote worker she welcomes collaboration request from any location 🌎 with great tools for communication  <br>
+  Do you want to know more? <a href="https://www.doingdot.com/about" target="_blank">Visit my website!</a>
   `,
-  siteUrl: 'https://maxpou.github.io/',
-  disqusSiteUrl: 'https://www.maxpou.fr/',
+  siteUrl: 'https://www.doingdot.com/',
+  disqusSiteUrl: 'https://bricode100.netlify.com',
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
   pathPrefix: '/gatsby-starter-morning-dew', // Note: it must *not* have a trailing slash.
   siteCover: 'cover.jpg', // file in content/images
-  googleAnalyticsId: 'UA-67868977-1',
+  googleAnalyticsId: 'UA-141256198-1',
   background_color: '#ffffff',
   theme_color: '#222222',
   display: 'standalone',
-  icon: 'content/images/gatsby-icon.png',
+  icon: 'content/images/avatar.jpeg',
   postsPerPage: 6,
-  disqusShortname: 'maxpou',
+  disqusShortname: 'sabrinadanielle',
   headerLinks: [
     {
-      label: '🏡',
+      label: '❤️🤔✨',
       url: '/',
     },
-    {
-      label: 'Blog',
-      url: '/',
-    },
-    {
-      label: 'About',
-      url: '/gatsby-starter-morning-dew',
-    },
-    {
-      label: 'Installation',
-      url: '/how-to-install',
-    },
+    // {
+    //   label: 'Blog',
+    //   url: '/',
+    // },
+    // {
+    //   label: 'About',
+    //   url: '/gatsby-starter-morning-dew',
+    // },
+    // {
+    //   label: 'Installation',
+    //   url: '/how-to-install',
+    // },
   ],
   // Footer information (ex: Github, Netlify...)
   websiteHost: {
@@ -47,37 +47,37 @@ module.exports = {
     url: 'https://github.com',
   },
   footerLinks: [
-    {
-      sectionName: 'Explore',
-      links: [
-        {
-          label: 'Blog',
-          url: '/',
-        },
-        {
-          label: 'About',
-          url: '/gatsby-starter-morning-dew',
-        },
-        {
-          label: 'Installation',
-          url: '/how-to-install',
-        },
-      ],
-    },
+    // {
+    //   // sectionName: 'Explore',
+    //   // links: [
+    //   //   {
+    //   //     label: 'Blog',
+    //   //     url: '/',
+    //   //   },
+    //     // {
+    //     //   label: 'About',
+    //     //   url: '/gatsby-starter-morning-dew',
+    //     // },
+    //     // {
+    //     //   label: 'Installation',
+    //     //   url: '/how-to-install',
+    //     // },
+    //   // ],
+    // },
     {
       sectionName: 'Follow the author',
       links: [
         {
           label: 'Github',
-          url: 'https://github.com/maxpou/gatsby-starter-morning-dew',
+          url: 'https://github.com/SabrinaDanielle',
         },
         {
           label: 'Website',
-          url: 'https://www.maxpou.fr',
+          url: 'https://www.doingdot.com',
         },
         {
           label: 'Twitter',
-          url: 'https://twitter.com/_maxpou',
+          url: 'https://twitter.com/brinadanielle',
         },
       ],
     },
